@@ -5,7 +5,7 @@
 
 Bu repo [Kodluyoruz](kodluyoruz.org) Git Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README.md dosyası barındırıyor.
 
-# Installation
+## Installation
 
 Öncelikle terminal üzerinden projeyi klonlamak istediğiniz dizine gelin ve projeyi klonlayın ;
 ```bash
@@ -13,7 +13,7 @@ git clone https://github.com/cemaltuysuz/kodluyoruzilkrepo.git
 ```
 
 
-# Usage
+## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -25,9 +25,14 @@ cd kodluyoruzilkrepo
 code .
 ```
     
-# Contributing
+## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
+
+https://choosealicense.com/licenses/mit/
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 
