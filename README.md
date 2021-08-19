@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/79871380/129892230-18e1e700-b6ad-48d1-8d23-0923d04fe71e.png)
 
-Bu repo [Kodluyoruz](kodluyoruz.org) Git Eğitiminde oluşturduğum ilk repo. İçerisinde bir adet README.md dosyası barındırıyor.
+Bu repo [Kodluyoruz](kodluyoruz.org) Git Eğitiminde oluşturduğum ilk reposiyory. İçerisinde bir adet README.md dosyası barındırıyor.
 
 ## Installation
 
